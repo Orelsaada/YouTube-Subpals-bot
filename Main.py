@@ -18,7 +18,7 @@ driver.find_element(By.LINK_TEXT,'Login / Register').click()
 driver.switch_to.frame(1)
 
 #channel id
-driver.find_element(By.NAME, 'channelid').send_keys('ENTER HERE YOUR CHANNEL ID')    <--- Enter Channel ID.
+driver.find_element(By.NAME, 'channelid').send_keys('ENTER HERE YOUR CHANNEL ID')    <---- Enter Channel ID.
 
 login_button = driver.find_element(By.NAME, 'submit')
 driver.execute_script("arguments[0].click();", login_button)
@@ -54,10 +54,10 @@ for i in range(21):
         #Login to Youtube:
         driver.find_element(By.XPATH,'//*[@id="buttons"]/ytd-button-renderer/a').click()
 
-        driver.find_element(By.ID, 'identifierId').send_keys('ENTER HERE YOUR EMAIL') <--- Enter here your email
+        driver.find_element(By.ID, 'identifierId').send_keys('ENTER HERE YOUR EMAIL') <---- Enter here your email
         driver.find_element(By.ID, 'identifierNext').click()
 
-        driver.find_element(By.NAME, 'password').send_keys('ENTER HERE YOUR EMAIL PASSWORD') <--- Enter here your email password
+        driver.find_element(By.NAME, 'password').send_keys('ENTER HERE YOUR EMAIL PASSWORD') <---- Enter here your email password
         pass_next_button = driver.find_element(By.ID, 'passwordNext')
         driver.execute_script("arguments[0].click();", pass_next_button)
 
