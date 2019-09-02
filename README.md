@@ -16,10 +16,11 @@ REQUIREMENTS: Selenium, Chrome Webdriver.
 
 ************************************************************************
 
-At Main.py there are 4 things you need to insert in the appropriate places:
-1) Your channel ID.
-2) Your channel password.
-3) Your email.
-4) Your email password.
+At Main.py there are 5 things you need to insert in the appropriate places:
+1) Webdriver path
+2) Your channel ID.
+3) Your channel password.
+4) Your email.
+5) Your email password.
 
 Then you can run and enjoy with your new subscribers!
