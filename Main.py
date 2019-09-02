@@ -4,7 +4,7 @@ import time
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 
-driver = webdriver.Chrome("F:\chromedriver.exe")
+driver = webdriver.Chrome("ENTER WEBDRIVER PATH HERE")  <---- Enter the path of chrome webdriver.
 
 driver.get(url="https://www.subpals.com")
 driver.implicitly_wait(10)
