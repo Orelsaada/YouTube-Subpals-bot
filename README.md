@@ -8,6 +8,12 @@ I created a bot using Python and Selenium that completes the task for us.
 
 
 REQUIREMENTS: Selenium, Chrome Webdriver.
+How to get Selenium? --- Open the cmd and run "pip install selenium"
+How to get Chrome Webdriver? --- You can download it from here : https://sites.google.com/a/chromium.org/chromedriver/downloads.
+(I've got 2.38.552522 version)
+
+
+
 At Main.py there are 4 things you need to insert in the appropriate places:
 1) Your channel ID.
 2) Your channel password.
