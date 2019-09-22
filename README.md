@@ -15,12 +15,11 @@ REQUIREMENTS: Selenium, Chrome Webdriver.
       (I've got 2.38.552522 version)
 
 ************************************************************************
-
-At Main.py there are 5 things you need to insert in the appropriate places:
-1) Webdriver path
-2) Your channel ID.
-3) Your channel password.
-4) Your email.
-5) Your email password.
+5 TO DO'S:
+1) Make sure ChromeDriver is in the same folder as the script.
+2) Insert Your channel ID.
+3) Insert Your channel password.
+4) Insert Your email.
+5) Insert Your email password.
 
 Then you can run and enjoy with your new subscribers!
