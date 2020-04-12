@@ -5,6 +5,8 @@ SubPals is a website which offers you to like and subscribe 20 youtube videos, a
 
 I created a bot using Python and Selenium that completes the task for us.
 
+Register manually at Subpals and then you will be able to run my bot.
+
 ************************************************************************
 
 REQUIREMENTS: Selenium, Chrome Webdriver.
