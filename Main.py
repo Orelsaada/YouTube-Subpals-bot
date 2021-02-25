@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.common import exceptions
 from selenium.webdriver.common.keys import Keys
 import os
-from tqdm import tqdm as prog
+from tqdm import tqdm as prog #optional, comment lines
 
     
 
