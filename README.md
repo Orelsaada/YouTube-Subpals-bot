@@ -1,5 +1,4 @@
 # YouTube-Subpals-bot
-# Subpals added captcha, so the bot doesn't work anymore.
 
 What's this? --- A simple bot to automate the process on SubPals.
 
@@ -17,6 +16,16 @@ REQUIREMENTS: Selenium, Chrome Webdriver.
    
    [+] How to get Chrome Webdriver? --- You can download it from here : https://sites.google.com/a/chromium.org/chromedriver/downloads.
       (I've got 2.38.552522 version)
+
+   `INSTALL PYTHON`
+
+   `>cd [DIR_BOT]`
+   
+   `>pip install requirements.txt`
+   
+   `EDIT PARAMETERS IN MAIN.PY [5]`
+   
+   `>py main.py` 
 
 ************************************************************************
 5 TO DO'S:
